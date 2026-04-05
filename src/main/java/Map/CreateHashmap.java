@@ -15,3 +15,4 @@ public class CreateHashmap {
         System.out.println("Map	:	"	+	map);
     }
 }
+//Hashmaps are unordered.
